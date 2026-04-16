@@ -25,6 +25,11 @@ Img{
 iframe{
     border: darkgreen solid 5px;
 }
+
+nav{
+    color: orange
+}
+
 footer{
     color: white;
 

@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: XX-large;
+}
+
+Img{
+    border: darkgreen solid 5px;
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+}
+    
+
+
+iframe{
+    border: darkgreen solid 5px;
+}
